@@ -6,7 +6,7 @@
  * @link https://jamesoller.com
  *
  * @package WordPress
- * @subpackage my_bootstrap
+ * @subpackage protest
  * @since 1.0
  */
 
