@@ -11,7 +11,6 @@
  */
 
 
-
 //Enqueue stylesheet
 function protest_scripts() {
     wp_enqueue_style( 'protest-style', get_stylesheet_uri('style.css') );
