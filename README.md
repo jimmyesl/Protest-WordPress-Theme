@@ -1,2 +1,3 @@
 # Protest-WordPress-Theme
-A WordPress Theme Called Protest 
+
+<b>Protest</b> is a WordPress theme built in Bootstrap
