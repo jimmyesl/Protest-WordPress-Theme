@@ -3,7 +3,7 @@
 /**
  * Protest functions and definitions
  *
- * @link https://jamesoller.com
+ * @link https://jamessoller.com
  *
  * @package WordPress
  * @subpackage protest
