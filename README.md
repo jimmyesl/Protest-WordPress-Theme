@@ -20,7 +20,7 @@ npm install && bower install && grunt watch
 <h3>Homepage</h3>
 <p>The homepage template is a full-width page called frontpage.php. It is set up for users that are comfortably with adding text widgets on the front page and then adding html5 in each of those widgets. This template consists of 4 sectons and a footer section. The first section is called 'home-slide', followed by 'home-1', 'home-2', 'home-3' and 'footer-1'</p>
 
-<p>If you want to use a slider, we recommend using <a href="https://wordpress.org/plugins/cyclone-slider-2/">Cyclone Slider 2 plugin.</a>Another solution is to simply build a hero image in the home-slide section. Other slider plugins should also work fine.</p>
+<p>If you want to use a slider, we recommend using <a href="https://wordpress.org/plugins/cyclone-slider-2/">Cyclone Slider 2 plugin.  </a>Another solution is to simply build a hero image in the home-slide section. Other slider plugins should also work fine.</p>
 
 <h3>Full Width Template</h3>
 <p>In addition to the default page.php template, there is a full-width template called 'full-width-page.php</p>
