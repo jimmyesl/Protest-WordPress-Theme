@@ -8,11 +8,9 @@
 
 get_header(); ?>
 
+<?php include( get_template_directory() . '/includes/stage.php'); ?>
 
-<!--Home Widget section to add slide or hero image-->
-  <div class="home-hero">
-    <?php if(is_active_sidebar('home-slide') ) dynamic_sidebar( 'home-slide' ); ?>
-  </div>
+
 
 <!--Home Widget Sections to use your creativity-->
  <div class="home-section-1">
