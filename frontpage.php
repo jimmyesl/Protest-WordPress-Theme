@@ -2,7 +2,7 @@
 /**
  * Template Name: Front Page Template
  *
- * This is the template for the frong page
+ * This is the template for the front page
  *
  */
 
